@@ -1,6 +1,6 @@
 # Buscador de gasolineras
 
-![stack: React](https://img.shields.io/badge/stack--React-0d9488?style=flat-square) ![stack: JavaScript](https://img.shields.io/badge/stack--JavaScript-0d9488?style=flat-square) ![stack: axios](https://img.shields.io/badge/stack--axios-0d9488?style=flat-square) ![stack: Create React App](https://img.shields.io/badge/stack--Create%20React%20App-0d9488?style=flat-square) ![IA: asistido](https://img.shields.io/badge/IA--asistido-6366f1?style=flat-square)
+![stack: React](https://img.shields.io/badge/stack--React-0d9488?style=flat-square) ![stack: JavaScript](https://img.shields.io/badge/stack--JavaScript-0d9488?style=flat-square) ![stack: axios](https://img.shields.io/badge/stack--axios-0d9488?style=flat-square) ![stack: Create React App](https://img.shields.io/badge/stack--Create%20React%20App-0d9488?style=flat-square) ![IA: asistido](https://img.shields.io/badge/IA--asistido-6366f1?style=flat-square) [![Demo](https://img.shields.io/badge/demo-en%20vivo-22c55e?style=flat-square)](https://luisf2020.github.io/gasolinera-finder/)
 
 Aplicacion React que consulta precios de carburante y ayuda a localizar la gasolinera mas conveniente segun empresa, carburante o cercania.
 
@@ -51,10 +51,8 @@ El nivel describe la complejidad tecnica del proyecto, no el grado de dominio de
 
 ## Despliegue
 
-Desplegable como sitio estatico tras `npm run build`; requiere definir el origen de la API en el entorno.  
-El codigo fuente esta disponible en este repositorio.
-
-> El repositorio incluye `node_modules` versionado, una practica que conviene evitar: deberia anadirse a `.gitignore`.
+Demo en vivo: <https://luisf2020.github.io/gasolinera-finder/>  
+Publicado con GitHub Pages (rama `gh-pages`).
 
 ## Transparencia sobre IA
 
